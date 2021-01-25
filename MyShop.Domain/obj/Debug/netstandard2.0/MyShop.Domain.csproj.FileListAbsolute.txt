@@ -1,0 +1,9 @@
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.deps.json
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.dll
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\bin\Debug\netstandard2.0\MyShop.Domain.pdb
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csprojAssemblyReference.cache
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfoInputs.cache
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.AssemblyInfo.cs
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.csproj.CoreCompileInputs.cache
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.dll
+C:\Drive\Education\Pluralsigth\C# Design Patterns\c-sharp-design-patterns-data-access-patterns\02\demos\Start_Here\MyShop.Domain\obj\Debug\netstandard2.0\MyShop.Domain.pdb
